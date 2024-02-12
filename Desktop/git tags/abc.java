@@ -1,5 +1,9 @@
-{
-    public static void main(String ar[])
+
+    class abc
+    {
+        void sort array
+    }
+    public static void main(sring[])
     {
        System.out.println("hello"); 
     }
